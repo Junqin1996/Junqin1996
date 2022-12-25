@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Junqin1996
+- 👀 I’m interested in Android, Kotlin, AI.
+- 📫 How to reach me 599878909@qq.com
